@@ -1,6 +1,7 @@
 /**
  * @source: [[w:en:User:Lunchboxhero/externISBN.js]]
  * @author: [[w:en:User:Lunchboxhero]]
+ * @traking: [[Special:GlobalUsage/User:Helder.wiki/Tools/externISBN.js]] ([[File:User:Helder.wiki/Tools/externISBN.js]])
  */
 if ( mw.config.get( 'wgCanonicalSpecialPageName' ) !== 'Booksources'
 	&& $.inArray(mw.config.get('wgPageName'), [ 'Wikilivros:Fontes_de_livros', 'Wikipedia:Book sources' ]) === -1 ) {
