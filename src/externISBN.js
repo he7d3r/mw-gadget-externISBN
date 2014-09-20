@@ -1,7 +1,6 @@
 /**
  * @source: [[w:en:User:Lunchboxhero/externISBN.js]]
  * @author: [[w:en:User:Lunchboxhero]]
- * @tracking: [[Special:GlobalUsage/User:Helder.wiki/Tools/externISBN.js]] ([[File:User:Helder.wiki/Tools/externISBN.js]])
  */
 /*jshint laxbreak: true */
 /*global jQuery, mediaWiki */
