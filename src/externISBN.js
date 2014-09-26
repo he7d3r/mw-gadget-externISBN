@@ -2,8 +2,6 @@
  * @source: [[w:en:User:Lunchboxhero/externISBN.js]]
  * @author: [[w:en:User:Lunchboxhero]]
  */
-/*jshint laxbreak: true */
-/*global jQuery, mediaWiki */
 ( function ( mw, $ ) {
 'use strict';
 
